@@ -1,6 +1,6 @@
 # Technical experiment template
 
-Markdown template for recording information about a technical experiments, aka POC or prototype. Created and used for
+Markdown template for recording information about a technical experiment, aka POC or prototype. Created for and used in
 software projects. 
 
 Here's the template...
