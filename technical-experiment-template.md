@@ -37,7 +37,7 @@ Activities may include, for example:
  - running tests/benchmarks
 
 ## Duration
-TO-DO: indicate the deadline for concluding the experiment. Be realistic and make the meeting the deadline a goal. If appropriate, 
+TO-DO: indicate the deadline for concluding the experiment. Be realistic and make meeting the deadline a goal. If appropriate, 
 indicate intermediary milestones. 
 
 ## Links and references
