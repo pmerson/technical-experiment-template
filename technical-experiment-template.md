@@ -5,8 +5,9 @@
 TO-DO: record here the partial or final conclusions and results of the technical experiment. 
 
 ## Objective 
-TO-DO: describe here the objectives that motivated this technical experiment. Usually, a design decision is made based on the experiment. 
-Explain what decision that is and what system(s) will be affected. 
+TO-DO: describe here the objectives that motivated this technical experiment. Usually, a design decision will be made based on the results of the experiment. 
+Explain what decision that is and what system(s) will be affected. Hint: try to articulate the objective as a technical question that you need to answer. 
+Example: what is the minimum bandwidth for my app to stream video at 25 fps on HD? 
 
 ## Status
 [Planned | In progress | Suspended | Canceled | Concluded]

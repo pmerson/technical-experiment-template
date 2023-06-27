@@ -5,9 +5,10 @@
 TO-DO: registre aqui as conclusões e resultados parciais ou finais do experimento técnico.  
 
 ## Objetivo 
-TO-DO: descreva aqui os objetivos que motivaram este experimento. Normalmente, uma decisão de design é tomada com base no experimento. 
-Explique que decisão é essa e qual é o sistema(s) afetado(s).
- 
+TO-DO: descreva aqui os objetivos que motivaram este experimento. Normalmente, uma decisão de design será tomada com base nos resultados do experimento. 
+Explique que decisão é essa e qual é o sistema(s) afetado(s). Dica: tente articular o objectivo na forma de uma pergunta técnica que você precisa responder.
+Exemplo: qual a largura de banda mínima pra que meu app envie o stream de vídeo com 25 fps em HD? 
+
 
 ## Status
 [Planejado | Em andamento | Suspenso | Cancelado | Concluído]
