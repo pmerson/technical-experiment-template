@@ -6,6 +6,7 @@ software projects.
 Here's the template...
  - [Template in English](technical-experiment-template.md)
  - [Template in Portuguese](technical-experiment-template_pt-BR.md)
+ - [Template in Korean](technical-experiment-template_ko-KR.md)
 
 ### Examples of experiments
 
